@@ -2188,3 +2188,10 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.pDecor {
+  font-weight: 700;
+}
+.mgfix-pd{
+  margin-bottom: 25px;
+}
